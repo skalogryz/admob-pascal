@@ -1,4 +1,4 @@
-unit GoogleMobileAds;
+unit GoogleAdMob;
 {$mode delphi}
 {$modeswitch objectivec1}
 {$modeswitch cvar}
